@@ -1,0 +1,41 @@
+_repo: Noah-WebsterAmerican-Men-of-Letters_31238
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scudder, Horace Elisha
+    aliases:
+    - Scudder, Horace E.
+    - Scudder, H. E. (Horace Elisha)
+    birthdate: 1838
+    deathdate: 1902
+    gutenberg_agent_id: '3446'
+    url: http://www.gutenberg.org/2009/agents/3446
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Scudder
+  editor:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: ''
+gutenberg_issued: '2010-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Educators -- United States -- Biography'
+- !lcsh 'Lexicographers -- United States -- Biography'
+- !lcsh 'Webster, Noah, 1758-1843'
+title: 'Noah Webster
+
+  American Men of Letters'
+url: http://www.gutenberg.org/ebooks/31238
